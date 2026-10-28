@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="flex justify-center items-center px-4">
         <p className="text-center font-kanit text-lg text-gray-700 leading-relaxed">
           © 2026 Copyright: Rights Reserved.<br />
-          Created by 6952D10010 | Sakda Wangsuk 📌📍
+          Created by 6952D10028 | Parinya Chaekkathok 📌📍
         </p>
       </div>
     </footer>
